@@ -1,5 +1,6 @@
-### pso enjoyer<br>
-### future [![RISCV](https://img.shields.io/badge/RISCV-283272.svg?style=flat-square&logo=RISC-V&logoColor=white)](https://riscv.org/) enthusiast (when i get the moeny to buy thos damn boards)
+### [pso enjoyer](https://github.com/r4qq/pso-crazy-man)<br>
+### future [![RISCV](https://img.shields.io/badge/RISCV-283272.svg?style=flat-square&logo=RISC-V&logoColor=white)](https://riscv.org/) enthusiast (when i get the moeny to buy those damn boards)
+### ![](https://img.shields.io/badge/AMD-ED1C24.svg?style=flat-square&logo=AMD&logoColor=white) fanboy
 
 ### contact
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:r4qq@duck.com) 
